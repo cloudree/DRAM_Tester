@@ -1,0 +1,27 @@
+Drill report for D:\Work\KiCad\DRAM_Tester\DRAM_Tester.kicad_pcb
+Created on 2019-04-12 오후 4:58:59
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DRAM_Tester.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.76mm  0.030"  (7 holes)
+    T2  0.80mm  0.031"  (96 holes)
+    T3  0.81mm  0.032"  (4 holes)
+    T4  0.90mm  0.035"  (4 holes)
+    T5  1.00mm  0.039"  (5 holes)
+    T6  2.30mm  0.091"  (2 holes)
+
+    Total plated holes count 118
+
+
+Drill file 'DRAM_Tester-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
