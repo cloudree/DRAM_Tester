@@ -60,7 +60,7 @@ inline int readData()
 
 inline int getAddrSize()
 {
-    return g_is44256 ? 9 : 7;
+    return g_is44256 ? 10 : 8;
 }
 
 inline void setAddress( int row, int col )
