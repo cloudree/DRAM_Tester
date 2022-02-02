@@ -5,7 +5,7 @@ DRAM_Tester folder : KiCAD schematics and gerber files for arduino nano (or pro-
 
 DRAM_Testers : Arduino source
 
-my blog posting :
+my blog posting (korean) :
 
 https://blog.naver.com/cloudree/221388540394 
 
